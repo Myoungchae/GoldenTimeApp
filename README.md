@@ -15,15 +15,12 @@
 
 
 ## ⭐️ 주요 기능
-| <img width="200px" src="https://user-images.githubusercontent.com/61593290/190440234-ad2622a3-fb19-4fc0-8d72-032cbd03fcb1.gif"> |<img width="200px" src="https://user-images.githubusercontent.com/61593290/190435528-16559e99-dca2-4dc9-9a5a-9e569b40cb64.gif"> |
-| --- | --- |
-| 아이 정보 입력 | NFC 태그 |
-|  <img width="200px" src="https://user-images.githubusercontent.com/61593290/190435554-b8a5f52a-fb15-4e64-8144-55f7b25a2e86.gif">  | <img width="200px" src="https://user-images.githubusercontent.com/61593290/190435571-78226e2a-1142-49c1-b4ea-dc14f40960e3.gif"> |
-| 아이 착장 촬영 | 등록한 아이 리스트 |
+![sswee](https://user-images.githubusercontent.com/94505652/224082424-466da497-bb20-4e33-ac2c-8aaf5ca5b515.gif)
+앱시작 -> 회원가입 -> 로그인 -> 아이정보입력 -> NFC태그 -> 아이사진등록
 
 ## 🛠 사용한 기술
 
- AndroidStudio(Java), Firebase, php, MariaDB
+ AndroidStudio(Java), Firebase, php, MariaDB, Arduino
 
 ## ℹ️ velog 개발 후기
 
